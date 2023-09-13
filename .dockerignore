@@ -1,0 +1,18 @@
+# Folders
+/dist
+/node_modules
+/test
+
+# Docker files
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Environmental variables
+.env
+.dist.env
+
+# Other files
+.git
+.gitignore
+README.md
