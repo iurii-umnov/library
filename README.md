@@ -10,7 +10,7 @@ git clone git@gitlab.com:Mens-Club/library.git .
 
 2. Secondly, you have to create _.env_ file in the root directory to fill variables from [.dist.env]
 
-- DB_HOST must be equal 'postgres'
+- DB_HOST must be equal to 'postgres'
 
 ```
 touch .env
